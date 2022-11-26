@@ -1,1 +1,1 @@
-web: gunicorn crop_recommend:app
+web: gunicorn crop:app
